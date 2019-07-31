@@ -1,0 +1,55 @@
+
+    ###############
+    BREXIT ANALYSIS
+    ###############
+    
+Mentions of Theresa May:
+--------------
+Mentions of Theresa names:153
+Total tweets: 5000
+
+Top 20 hashtags:
+--------------
+brexit: 573
+eu: 36
+revokearticle50: 32
+indicativevotes: 27
+brexitshambles: 26
+wtobrexitnow: 24
+peoplesvote: 23
+brexitstorm: 21
+nodeal: 15
+nhs: 14
+indicativevotes2: 13
+theresamay: 12
+singlemarket: 12
+stopbrexit: 10
+r4today: 9
+twatinahat: 9
+brexitbetrayal: 8
+uk: 8
+brexitchaos: 7
+fbpc: 7
+
+Total number of hashtags used: 1462
+
+
+Types of tweets - original vs retweeted:
+--------------
+Number of original tweets: 1424
+Number of retweeted tweets: 3576
+
+Counts of the favorites on tweets:
+--------------
+Number of tweets favorited more than1times: 3295
+Number of tweets favorited more than100times: 1896
+Number of tweets favorited more than1000times: 861
+Number of tweets favorited more than5000times: 187
+Number of tweets favorited more than10000times: 108
+Number of tweets favorited more than50000times: 3
+
+Types of tweet content - text vs audio vs video
+--------------
+Tweets with only text: 4822
+Tweets with images: 148
+Tweets with videos: 19
